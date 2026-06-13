@@ -11,3 +11,13 @@ We also released the machine learning approach following a nested cross-validati
 [2] employing the individual z-scores (SLEIS score v.1) estimated seaprately for the training-testing set to discriminate NFLE vs RBD
 [3] employing the aggregated z-scores (SLEIS score v.2) estimated seaprately for the training-testing set to discriminate NFLE vs RBD
 
+The file total_classes.mat records subjects' classes across the cohort of N = 108 subjects. Below, you can find the
+correspondence between numbers and sleep disorder groups.
+%% 1 -  n    = 1:16
+%% 2 - brux  = 17:18
+%% 3 - ins   = 19:27  
+%% 4 - narco = 28:32
+%% 5 - nfle  = 33:72
+%% 6 - plm   = 73:82
+%% 7 - rbd   = 83:104
+%% 8 - sbd   = 105:108

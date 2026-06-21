@@ -7,8 +7,11 @@ https://physionet.org/content/capslpdb/1.0.0/#ref03
 
 We released the original features and the ones weighted with z-score per feature (SLEIS score 1) and with its aggregated version (SLEIS score 2).
 We also released the machine learning approach following a nested cross-validation {5,2} on the three experiments:
+
 [1] on the original approach with the healthy controls vs NFLE vs RBD using the original features (three classes)
+
 [2] employing the individual z-scores (SLEIS score v.1) estimated seaprately for the training-testing set to discriminate NFLE vs RBD (two classes)
+
 [3] employing the aggregated z-scores (SLEIS score v.2) estimated seaprately for the training-testing set to discriminate NFLE vs RBD (two classes)
 
 The file total_classes.mat records subjects' classes across the cohort of N = 108 subjects. Below, you can find the

@@ -37,7 +37,7 @@ correspondence between numbers and sleep disorder groups.
 
 Citation :
 
-If you use this code, please cite:
+If you use the meta-data (features) and the code, please cite:
 Dimitriadis SI, Salic CI. Cyclic Alternating Patterns (CAP) framework in Sleep Microstructure of Sleep Disorders: Markers of Sleep Instability Using Healthy Controls as Reference.
 doi: https://doi.org/10.1101/2025.10.13.25337880
 URL : https://www.medrxiv.org/content/10.1101/2025.10.13.25337880v2 

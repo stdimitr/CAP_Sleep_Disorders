@@ -35,6 +35,9 @@ correspondence between numbers and sleep disorder groups.
  (8)   sbd   = 105:108
 
 
+Python module has been created by Dr.Stavros I. Dimitriadis (Supervisor) and Dr. Christos I. Salis (sal.christos@gmail.com).
+
+
 
 Citation :
 

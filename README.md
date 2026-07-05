@@ -13,7 +13,7 @@ We also released the machine learning approach following a nested cross-validati
 
 [2] employing the individual z-scores (SLEIS score v.1) estimated seaprately for the training-testing set to discriminate NFLE vs RBD (two classes)
 
-[3] employing the aggregated z-scores (SLEIS score v.2) estimated seaprately for the training-testing set to discriminate NFLE vs RBD (two classes)
+[3] employing the composite z-scores (SLEIS score v.2) estimated seaprately for the training-testing set to discriminate NFLE vs RBD (two classes)
 
 The file total_classes.mat records subjects' classes across the cohort of N = 108 subjects. Below, you can find the
 correspondence between numbers and sleep disorder groups.

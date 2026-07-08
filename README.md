@@ -41,7 +41,7 @@ Python module has been implemented by  Dr. Christos I. Salis (sal.christos@gmail
 
 Citation :
 
-If you use the meta-data (features) and the code, please cite:
+If you use the meta-data (features) and the code, please consider cite the following article:
 
 Dimitriadis SI, Salic CI. Cyclic Alternating Patterns (CAP) framework in Sleep Microstructure of Sleep Disorders: Markers of Sleep Instability Using Healthy Controls as Reference.
 doi: https://doi.org/10.1101/2025.10.13.25337880

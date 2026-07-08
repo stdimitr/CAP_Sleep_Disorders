@@ -1,22 +1,18 @@
 # CAP_Sleep_Disorders
 
-This repository includes the macrostructural and microstructural (CAP) features extracted from the annotated hypnograms
-of the unique sleep disorder database that you find here :
+This repository includes the macrostructural and microstructural (CAP) features extracted from the annotated hypnograms of the unique sleep disorder database that you can find here :
 
-CAP SLEEP DATABASE
-https://physionet.org/content/capslpdb/1.0.0/#ref03
+CAP SLEEP DATABASE https://physionet.org/content/capslpdb/1.0.0/#ref03
 
-We released the original features and the ones weighted with z-score per feature (SLEIS score 1) and with its aggregated version (SLEIS score 2).
-We also released the machine learning approach following a nested cross-validation {5,2} on the three experiments:
+We released the original features, the ones weighted with a z-score per feature (SLEIS score 1), and their aggregated version (SLEIS score 2). We also released the machine learning approach following a nested cross-validation {5,2} on the three experiments:
 
 [1] on the original approach with the healthy controls vs NFLE vs RBD using the original features (three classes)
 
-[2] employing the individual z-scores (SLEIS score v.1) estimated seaprately for the training-testing set to discriminate NFLE vs RBD (two classes)
+[2] employing the individual z-scores (SLEIS score v.1) estimated separately for the training-testing set to discriminate NFLE vs RBD (two classes)
 
-[3] employing the composite z-scores (SLEIS score v.2) estimated seaprately for the training-testing set to discriminate NFLE vs RBD (two classes)
+[3] employing the composite z-scores (SLEIS score v.2) estimated separately for the training-testing set to discriminate NFLE vs RBD (two classes)
 
-The file total_classes.mat records subjects' classes across the cohort of N = 108 subjects. Below, you can find the
-correspondence between numbers and sleep disorder groups.
+The file total_classes.mat records subjects' classes across the cohort of N = 108 subjects. Below is the correspondence between numbers and sleep disorder groups.
 
  (1)    n    = 1:16
  
@@ -38,10 +34,9 @@ correspondence between numbers and sleep disorder groups.
 Python module has been implemented by  Dr. Christos I. Salis (sal.christos@gmail.com), and Dr. Stavros I. Dimitriadis (Supervision, Conceptualization).
 
 
-
 Citation :
 
-If you use the meta-data (features) and the code, please consider cite the following article:
+If you use the metadata (features) and the code, please consider citing the following article:
 
 Dimitriadis SI, Salic CI. Cyclic Alternating Patterns (CAP) framework in Sleep Microstructure of Sleep Disorders: Markers of Sleep Instability Using Healthy Controls as Reference.
 doi: https://doi.org/10.1101/2025.10.13.25337880

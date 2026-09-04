@@ -31,7 +31,7 @@ The file total_classes.mat records subjects' classes across the cohort of N = 10
  (8)   sbd   = 105:108
 
 
-Python module has been implemented by  Dr. Christos I. Salis (sal.christos@gmail.com), and Dr. Stavros I. Dimitriadis (Supervision, Conceptualization).
+Python module has been implemented by  Dr. Christos I. Salis (Email : sal.christos@gmail.com), and Dr. Stavros I. Dimitriadis (Email : stidimitriadis@gmail.com) (Supervision, Conceptualization).
 
 
 Citation :
